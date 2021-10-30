@@ -1,2 +1,2 @@
 # git-book
-Book of examples in Git 
+Examples book in Git  
